@@ -1,4 +1,4 @@
-Namaste !!!
+Namaste!!!
 An Sample Portfolio Website (vibecoded) for an AI website building competition for reverse prompt engineering !
 Click a member arrow for their introduction, sample projects and Contact me button. Gaurav and Shruthik use supplied contacts. Palak and Shraddha have suggested emails and masked phone placeholders, clearly marked and not clickable. Replace with verified details in script.js. All member project histories are sample content; edit profiles in script.js with actual projects.
 
